@@ -39,7 +39,7 @@ Após isso a lista que armazena os nomes é limpa e novos nomes podem ser adicio
 
 ![imagem inicial](https://github.com/user-attachments/assets/d2df978f-ead8-45ae-8209-30d7bbc2174a)
 
-Obs: Se nenhum nome for adicionado à lista o botâo "Sortear amigo" for clicado a seguinte mensagem será exibida por 2 segundos: "Lista vazia, não há amigos para sortear".
+Obs: Se nenhum nome for adicionado à lista e o botão "Sortear amigo" for clicado, a seguinte mensagem será exibida por 2 segundos: "Lista vazia, não há amigos para sortear".
 
 ![sorteando com lista vazia](https://github.com/user-attachments/assets/effca24a-3862-4d03-b91a-25558607c13d)
 
