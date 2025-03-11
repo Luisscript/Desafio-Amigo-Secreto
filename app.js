@@ -54,6 +54,7 @@ function sortearAmigo(){
         let lista = document.getElementById("listaAmigos");
         lista.innerHTML="";
         listaAmigos = [];
+        setTimeout(()=>{resultado.innerHTML=""}, 10000);
     }
 }
 
